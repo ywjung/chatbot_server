@@ -1,0 +1,20 @@
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore generated data
+data_json/
+
+# pdf files
+data/
+
+# Ignore chroma database files
+chroma_db/
+
+__pycache__/
+
+models/
+
+venv/
